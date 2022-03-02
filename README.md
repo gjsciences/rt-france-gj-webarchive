@@ -7,3 +7,5 @@ Le [1er Mars 2022, l'Union Européenne a approuvé l'interdiction rétroactive d
 L'archive présentée ici contient la liste de tous les articles ainsi qu'un dossier documentaire que RT France a publié sur le mouvement des Gilets Jaunes ainsi qu'un documentaire. Le contenu des articles n'est pas stocké ici, mais sur WebArchive (WayBack Machine). L'archive proposée ici vise simplement à en faciliter l'accès et l'exploration pour les documentaristes.
 
 Notez que seul le contenu textuel, voire quelques images, a été sauvegardé. Le contenu vidéo ne l'est pas.
+
+Pour consulter l'archive: https://gjsciences.github.io/rt-france-gj-webarchive/
